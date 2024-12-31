@@ -1,0 +1,17 @@
+***********Printing Data for Fig-9***********
+Bufsize: 1	 TRH_STAR(NoTardy): 7803	 TRH_STAR(Tardy): 7842
+Bufsize: 2	 TRH_STAR(NoTardy): 4145	 TRH_STAR(Tardy): 4223
+Bufsize: 3	 TRH_STAR(NoTardy): 3461	 TRH_STAR(Tardy): 3579
+Bufsize: 4	 TRH_STAR(NoTardy): 3266	 TRH_STAR(Tardy): 3423
+Bufsize: 5	 TRH_STAR(NoTardy): 3179	 TRH_STAR(Tardy): 3376
+Bufsize: 6	 TRH_STAR(NoTardy): 3125	 TRH_STAR(Tardy): 3361
+Bufsize: 7	 TRH_STAR(NoTardy): 3089	 TRH_STAR(Tardy): 3365
+Bufsize: 8	 TRH_STAR(NoTardy): 3061	 TRH_STAR(Tardy): 3376
+Bufsize: 9	 TRH_STAR(NoTardy): 3039	 TRH_STAR(Tardy): 3394
+Bufsize: 10	 TRH_STAR(NoTardy): 3022	 TRH_STAR(Tardy): 3416
+Bufsize: 11	 TRH_STAR(NoTardy): 3009	 TRH_STAR(Tardy): 3443
+Bufsize: 12	 TRH_STAR(NoTardy): 2998	 TRH_STAR(Tardy): 3471
+Bufsize: 13	 TRH_STAR(NoTardy): 2987	 TRH_STAR(Tardy): 3500
+Bufsize: 14	 TRH_STAR(NoTardy): 2980	 TRH_STAR(Tardy): 3532
+Bufsize: 15	 TRH_STAR(NoTardy): 2973	 TRH_STAR(Tardy): 3565
+Bufsize: 16	 TRH_STAR(NoTardy): 2967	 TRH_STAR(Tardy): 3598
